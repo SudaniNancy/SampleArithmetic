@@ -1,0 +1,16 @@
+PODS:
+  - SampleArithmetic (0.1.0)
+
+DEPENDENCIES:
+  - SampleArithmetic (from `../`)
+
+EXTERNAL SOURCES:
+  SampleArithmetic:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  SampleArithmetic: da27bf429948917a95a88c4af381b03641c7bf4e
+
+PODFILE CHECKSUM: 3ff21ecc37106ac22fdd5e65c15ad9d237db3990
+
+COCOAPODS: 1.7.0.beta.2

@@ -1,0 +1,6 @@
+framework module SampleArithmetic {
+  umbrella header "SampleArithmetic-umbrella.h"
+
+  export *
+  module * { export * }
+}
